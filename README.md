@@ -3,7 +3,7 @@
  <ul>
  <li>React</li>
  <li>Bootstrap</li>
- <li>Frame Motion</li>
+ <li>Framer Motion</li>
  </ul>
  
  <img src="./tempo-react/img/weatherforcast.png">
